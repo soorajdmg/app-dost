@@ -166,8 +166,7 @@ const Footer = () => {
           className="flex flex-col md:flex-row justify-between items-center gap-2 sm:gap-4 text-gray-400 text-xs sm:text-sm text-center md:text-left"
         >
           <p className="flex items-center gap-2">
-            Made with <Heart size={14} className="sm:w-4 sm:h-4 text-red-500 fill-current" /> by
-            AppDost Team
+            Sooraj Murugaraj
           </p>
           <p>&copy; {new Date().getFullYear()} AppDost. All rights reserved.</p>
         </motion.div>
